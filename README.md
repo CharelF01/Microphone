@@ -1,11 +1,10 @@
-# Microphone
+# Microphone (Files coming soon)
 
 This is my iteration of the open hardware project from DIYPERKS which you can find here:
 https://diyperks.com/project_31_high-quality-usb-c-microphone/
 
 The schematic is the same only drawn in Fusion/Eagle.
 
-PHOTO
 
 I also designed a single layer pcb to be able to etch the board and make it a smaller package in general.
 
